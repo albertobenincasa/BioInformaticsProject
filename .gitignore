@@ -1,2 +1,3 @@
 # Do not track these elements
 .ipynb_checkpoints/
+data/
